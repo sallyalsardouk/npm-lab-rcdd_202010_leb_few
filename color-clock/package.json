@@ -1,5 +1,4 @@
 {
-  
   "name": "package.json",
   "version": "1.0.0",
   "description": "",
@@ -8,5 +7,8 @@
     "test": "echo'Hello World!'"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
